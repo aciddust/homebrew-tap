@@ -1,6 +1,6 @@
 cask "s3v" do
-  version "0.4.5"
-  sha256 "3f91b0df99c7bb6b79c3dd92f1b16c0ed5da5756c555c95c30cd00a0287c2631"
+  version "0.5.0"
+  sha256 "d94489c9af38280987684a367e1efdb177dff1804b81265662deae3ec739c25a"
 
   url "https://github.com/aciddust/s3v/releases/download/v#{version}/s3v_#{version}_universal.dmg"
   name "S3V"
